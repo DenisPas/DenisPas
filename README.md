@@ -1,5 +1,5 @@
 # Hi, my name is **Denis Pas** 👋
-## I'm a *Front-end developer* from Saint-Petersburg.
+## I'm a Front-end developer from Saint-Petersburg.
 ### Languages and Technplogies
 ![JavaScript](https://img.shields.io/badge/-JavaSript-090909?style=for-the-badge&logo=JavaScript)
 ![VueJs](https://img.shields.io/badge/-VueJs-090909?style=for-the-badge&logo=vue.js)
